@@ -14,7 +14,7 @@ bids = {"Tom":100,"Jerry":200}
 
 #### Preview:
 
-![bidding](./.png)
+![bidding](./bids.png)
 
 ## How to run this on your device
 
